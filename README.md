@@ -1,4 +1,9 @@
 # 🚀 AWS Gateway Load Balancer - Centralized Security Architecture
+## 📸 Architecture Diagram
+![Architecture](architecture.png)
+
+## 📊 Metrics
+![Metrics](metrics.png)
 
 ## 📌 Project Overview
 This project demonstrates a real-world cloud security architecture using AWS Gateway Load Balancer (GWLB).
